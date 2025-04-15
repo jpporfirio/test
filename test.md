@@ -33,88 +33,75 @@ Um catálogo de produtos é uma ferramenta essencial para qualquer marketplace, 
     * Tecnologia (LED, OLED, QLED)
     * Voltagem (110V, 220V, Bivolt)
     * Conexões (HDMI, USB, etc.)
-    * ![TV](https://via.placeholder.com/150)
-* **Computadores ️**:
+    * * **Computadores ️**:
     * Tipo (Desktop, Notebook, All-in-One) ⌨️
     * Processador (Intel, AMD) ⚙️
     * Memória RAM (GB)
     * Armazenamento (SSD, HDD)
     * Sistema Operacional
-    * ![Computador](https://via.placeholder.com/150)
+    * ️
 * **Smartphones **:
     * Marca e Modelo
     * Sistema Operacional (Android, iOS)
     * Armazenamento Interno (GB)
     * Tamanho da Tela (polegadas)
     * Câmera (MP)
-    * ![Smartphone](https://via.placeholder.com/150)
-* **Áudio **:
+    * * **Áudio **:
     * Tipo (fones de ouvido, caixas de som, etc)
     * Conexão (com fio, bluetooth)
-    * ![Áudio](https://via.placeholder.com/150)
-* **Eletrodomésticos **:
+    * * **Eletrodomésticos **:
     * Tipo (Geladeira, Fogão, Maquina de lavar, etc)
     * Voltagem (110V, 220V, bivolt)
-    * ![Eletrodomésticos](https://via.placeholder.com/150)
-
-###  2. Moda
+    * ###  2. Moda
 
 * **Roupas **:
     * Tamanho (PP, P, M, G, GG)
     * Cor
     * Material
     * Estilo (Casual, Formal, Esportivo)
-    * ![Roupas](https://via.placeholder.com/150)
-* **Calçados **:
+    * * **Calçados **:
     * Número
     * Cor
     * Material
     * Tipo (Tênis, Sapatos, Sandálias)
-    * ![Calçados](https://via.placeholder.com/150)
-* **Acessórios **:
+    * * **Acessórios **:
     * Tipo (Bolsa, carteira, cintos, etc)
     * Cor
     * Material
-    * ![Acessórios](https://via.placeholder.com/150)
-
-### ⚽ 3. Esportes
+    * ### ⚽ 3. Esportes
 
 * **Roupas Esportivas **:
     * Tamanho
     * Cor
     * Material
     * Modalidade (Corrida, Futebol, etc.)
-    * ![Roupas Esportivas](https://via.placeholder.com/150)
-* **Equipamentos ️**:
+    * * **Equipamentos ️**:
     * Tipo (Bolas, Raquetes, etc.)
     * Tamanho
     * Material
-    * ![Equipamentos](https://via.placeholder.com/150)
-* **Acessórios Esportivos **:
+    * * **Acessórios Esportivos **:
     * Tipo (Garrafas, Toalhas, etc.)
     * Cor
     * Material
-    * ![Acessórios Esportivos](https://via.placeholder.com/150)
-
-###  4. Casa e Decoração
+    * ###  4. Casa e Decoração
 
 * **Móveis 🪑**:
     * Tipo (Sofá, Cama, Mesa)
     * Dimensões
     * Material 🪵
     * Cor
-    * ![Móveis](https://via.placeholder.com/150)
+    * ️
 * **Decoração ️**:
     * Tipo (Quadros, Vasos, etc.)
     * Dimensões
     * Material
     * Cor
-    * ![Decoração](https://via.placeholder.com/150)
+    * ️
 * **Utensílios Domésticos ️**:
     * Tipo (Panelas, Talheres, etc.)
     * Material
     * Cor
-    * ![Utensílios Domésticos](https://via.placeholder.com/150)
+    * ️
 
 ###  5. Livros e Papelaria
 
@@ -123,37 +110,30 @@ Um catálogo de produtos é uma ferramenta essencial para qualquer marketplace, 
     * Autor ✍️
     * Editora
     * Gênero
-    * ![Livros](https://via.placeholder.com/150)
-* **Materiais Escolares ✏️**:
+    * * **Materiais Escolares ✏️**:
     * Tipo (Cadernos, Lapis, etc)
     * Cor
     * Tamanho
-    * ![Materiais Escolares](https://via.placeholder.com/150)
-* **Escritório **:
+    * * **Escritório **:
     * Tipo (canetas, papel, etc)
     * Cor
     * Tamanho
-    * ![Escritório](https://via.placeholder.com/150)
-
-###  6. Outros
+    * ###  6. Outros
 
 * **Brinquedos **:
     * Tipo (Bonecas, Carrinhos, etc.)
     * Idade Recomendada
     * Material
-    * ![Brinquedos](https://via.placeholder.com/150)
-* **Ferramentas ️**:
+    * * **Ferramentas ️**:
     * Tipo (Chaves, Alicates, etc.)
     * Tamanho
     * Material
-    * ![Ferramentas](https://via.placeholder.com/150)
+    * ️
 * **Pet Shop **:
     * Tipo (Ração, Brinquedos, etc.)
     * Tamanho
     * Material
-    * ![Pet Shop](https://via.placeholder.com/150)
-
----
+    * ---
 
 ##  Criadores
 
